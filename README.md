@@ -1,4 +1,4 @@
-<b>Assignment Guidance: Case Study Unsupervised (K-Means Clustering)</b>
+<h2><b>Assignment Guidance: Case Study Unsupervised (K-Means Clustering)</b></h2>
 
 <b>Process:</b>
 - melakukan data pre processing
